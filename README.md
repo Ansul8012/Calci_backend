@@ -11,6 +11,11 @@ This is the backend for the AI Calculator project. It provides API endpoints to 
 
 ## Getting Started
 
+cd ~/Desktop/AI\ Calculator/calc-be
+source venv/bin/activate
+uvicorn main:app --reload
+
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ansul8012/Calci_backend
